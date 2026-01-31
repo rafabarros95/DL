@@ -1,1 +1,1 @@
-## Here are some private projects on Deep Learning path
+## Here are some insights through projects on Deep Learning path
